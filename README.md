@@ -50,6 +50,6 @@ User can only put digit in the search area.
 
 ### `Making Weather app:`
 
-I have used ReactJs to develop app because it was original requirement and react is giving Single Page Application facility, so performance of site is quick responsive and fast.
+I have used ReactJs to develop app because it was original requirement and react is giving Single Page Application facility, so `performance` of site is quick responsive and fast.
 
 For clear code and future requirements of reusable component, I have used component methodology so in future if requirements go bigger, developer can handle very easily and understands where to change.
