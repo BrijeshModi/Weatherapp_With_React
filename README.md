@@ -53,3 +53,8 @@ User can only put digit in the search area.
 I have used ReactJs to develop app because it was original requirement and react is giving Single Page Application facility, so `performance` of site is quick responsive and fast.
 
 For clear code and future requirements of reusable component, I have used component methodology so in future if requirements go bigger, developer can handle very easily and understands where to change.
+
+Also used react-router to route the page. As per requirements app has two pages with routing facility. 
+
+Also used process. env concepts so API key cannot be seen as page code source. So `Security` constraint is cover as developer should not show the API key when site will deploy.  
+
