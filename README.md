@@ -26,7 +26,7 @@ Bootstrp
 Github
 
 
-How to Run App:
+### `How to Run App:`
 1.	Clone the repository
 2.	Open project in VS Code
 3.	Run NPM Install command weatherapp level directory
@@ -35,7 +35,7 @@ How to Run App:
 6.	App will open in browser.
 
 
-How Weaterapp works:
+### `How Weaterapp works:`
 When the weather-app load in the browser, user gets the local weather of the city.
 User gets City-Name, Country-Code, Current-Temp, Wind-Speed, Sunrise and Sunset.
 
@@ -48,7 +48,7 @@ On the same page user can filter the day with minimum temp and maximum temp.
 And component will update with filter result at bottom.
 User can only put digit in the search area.
 
-Making Weather app:
+### `Making Weather app:`
 
 I have used ReactJs to develop app because it was original requirement and react is giving Single Page Application facility, so performance of site is quick responsive and fast.
 
